@@ -64,9 +64,13 @@ developing your own process.
 
   - How I debugged:
 
+<br>
+
 - Update the number of likes for a toy
 
   - How I debugged:
+
+<br>
 
 - Donate a toy to Goodwill (and delete it from our database)
 
